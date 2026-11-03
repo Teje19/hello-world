@@ -1,2 +1,2 @@
 # hello-world
-This repository is for practicing the GitHub Flow.
+Hello, my name is Facundo, and this is my first assignment using GitHub
